@@ -1,0 +1,11 @@
+Feature 1'
+Feature 2
+Fix3
+<<<<<<< HEAD
+aaaaaaa
+=======
+bbbbbbb
+
+
+Feature3
+>>>>>>> feature3
